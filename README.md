@@ -1,2 +1,2 @@
-# amazon-clone
-AMAZON CLONE WEBSITE WITH THE FEATURES STILL IN PROCESS.
+# Amazon-Clone
+This is a amazon clone made by using HTML 5 And CSS3. 
